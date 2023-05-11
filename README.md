@@ -1,8 +1,8 @@
 # USBHDD_Protect
 
-![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/TR/preview.jpg)
-
          Türkçe Açıklama
+
+![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/TR/preview.jpg)
 
 UYARI:
 
@@ -38,10 +38,10 @@ Bu betik dosyası tek başına ransomware tarzı virüslere karşı koruyucu öz
 
 Lütfen önemli dosyalarınız için kendi güvenlik önlemlerinizi alın.		 
 		 
-		 
-		 
+		
          English Explanation
-		 
+
+![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/ENG/preview.jpg)
 
 WARNING:
 
