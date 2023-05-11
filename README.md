@@ -4,6 +4,7 @@
 
 
 UYARI:
+
 Yazma-Koruma işlemi uygulanan disk sadece koruma işleminin yapıldığı bilgisayarda işe yaramaktadır. 
 
 Koruması sağlanan diski başka bir bilgisayara taktığınızda korumanın etkinleşmesi için mecburen USBHDD_Protect.bat dosyasının tekrardan çalıştırılması gerekir.
@@ -42,6 +43,7 @@ Lütfen önemli dosyalarınız için kendi güvenlik önlemlerinizi alın.
 		 
 
 WARNING:
+
 The write-protection applied to the disk only works on the computer where the protection is applied. 
 
 When you connect the protected disk to another computer, you will need to run the USBHDD_Protect.bat file again to activate the protection.
@@ -71,6 +73,7 @@ If you had set all your disks to read-only with this script file before handing 
 The scenario I have written above actually happened to me :( 
 
 WARNING:
+
 This script file alone does not provide protection against ransomware-type viruses. 
 
 Please take your own security measures for your important files.
