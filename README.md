@@ -1,8 +1,8 @@
 # USBHDD_Protect
 
-         Türkçe Açıklama
-
 ![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/TR/preview.jpg)
+
+         Türkçe Açıklama
 
 UYARI:
 
