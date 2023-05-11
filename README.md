@@ -1,4 +1,4 @@
-# USBHDD_Protect
+# USB & HDD_Protect
 
          Türkçe Açıklama
 
