@@ -27,7 +27,7 @@ Oluşturulan Dosya tamamen şifrelidir, not defteri ile açıldığı takdirde s
 
 Bu senaryo sizin için bir senaryo olabilir ama benim için maalesef gerçekleşti.
 
-Çocuğunuz okuldan geldi, siz de evde yoksunuz ve bilgisayarınızı açtı. Saçma sapan oyun sitelerine girdi bilgisayarınıza ransomware tarzı virüs bulaştırdı.
+Çocuğunuz okuldan geldi, siz de evde yoksunuz ve bilgisayarınızı açtı. Saçma sapan oyun sitelerine girdi ve bilgisayarınıza ransomware tarzı virüs bulaştırdı.
 
 Eğer bu betik dosyası ile bilgisayarınızı çocuğunuza teslim etmeden önce tüm disklerinizi salt okunur olarak ayarlayasaydınız, ransomware virüsü bilgisayarınıza zarar veremezdi.
 
