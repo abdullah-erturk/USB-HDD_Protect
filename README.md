@@ -4,6 +4,7 @@
 
 
 UYARI:
+
 Yazma-Koruma işlemi uygulanan disk sadece koruma işleminin yapıldığı bilgisayarda işe yaramaktadır. 
 
 Koruması sağlanan diski başka bir bilgisayara taktığınızda korumanın etkinleşmesi için mecburen USBHDD_Protect.bat dosyasının tekrardan çalıştırılması gerekir.
