@@ -4,7 +4,6 @@
 
 
 UYARI:
-
 Yazma-Koruma işlemi uygulanan disk sadece koruma işleminin yapıldığı bilgisayarda işe yaramaktadır. 
 
 Koruması sağlanan diski başka bir bilgisayara taktığınızda korumanın etkinleşmesi için mecburen USBHDD_Protect.bat dosyasının tekrardan çalıştırılması gerekir.
@@ -32,6 +31,7 @@ Eğer bu betik dosyası ile bilgisayarınızı çocuğunuza teslim etmeden önce
 Bu yazdığım senaryo aynen benim başıma geldi maalesef :( 
 
 UYARI:
+
 Bu betik dosyası tek başına ransomware tarzı virüslere karşı koruyucu özelliği taşımaz. 
 
 Lütfen önemli dosyalarınız için kendi güvenlik önlemlerinizi alın.		 
