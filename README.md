@@ -18,7 +18,7 @@ USBHDD_Protect_KodlarAçık.bat dosyasını açmak istediğinizde size şifre so
 
 Şifre varsayılan olarak 1234'tür. 
 
-Ancak siz kendi şifrenizi belirlemek ve kodları da şifrelemek isterseniz USBHDD_Protect_Create.bat dosyası ile hem kendi şifrenizi belirleyebilir hem de betik dosyası not defteri ileaçıldığında kod satırları Çince karakterler görünecek şeklinde şifrelenmiş olur.
+Ancak siz kendi şifrenizi belirlemek ve kodları da şifrelemek isterseniz USBHDD_Protect_Create.bat dosyası ile hem kendi şifrenizi belirleyebilir hem de betik dosyası not defteri ile açıldığında kod satırları Çince karakterler görünecek şeklinde şifrelenmiş olur.
 
 Oluşturulan Dosya tamamen şifrelidir, not defteri ile açıldığı takdirde sadece Çince karakterler olacaktır ama dosyaya çift tıkladığınızda düzgün bir şekilde çalışacaktır.
 
@@ -59,7 +59,7 @@ The default password is 1234
 
 However, if you want to set your own password and encrypt the code lines when the script file is opened with Notepad, you can use the USBHDD_Protect_Create.bat file to both set your own password and encrypt the script file.
 
-The created file is completely encrypted, and when opened with Notepad, only Chinese characters will appear in the code lines. But when you double-click on the file, it will work properly.
+The created file is completely encrypted, and when opened with Notepad, only Chinese characters will appear in the code lines. But when you double click on the file, it will work properly.
 
 Now, let's create a scenario :)
 
