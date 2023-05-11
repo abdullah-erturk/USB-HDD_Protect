@@ -10,6 +10,7 @@ Yazma-Koruma işlemi uygulanan disk sadece koruma işleminin yapıldığı bilgi
 
 Koruması sağlanan diski başka bir bilgisayara taktığınızda korumanın etkinleşmesi için mecburen USBHDD_Protect.bat dosyasının tekrardan çalıştırılması gerekir.
 
+
 Bu betik dosyası ile NTFS/FAT/FAT32/exFAT/REFS bölüm yapısı fark etmeksizin tüm disklerinizi sadece bir kaç tıklama işlemi ile koruyabileceksiniz.
 
 Bu betik dosyası hem taşınabilir usb flash ve harici disklerde hem de bilgisayarınızda ana kartınıza direkt bağlı olan yerel disklerde çalışır.
@@ -48,6 +49,7 @@ WARNING:
 The write-protection applied to the disk only works on the computer where the protection is applied. 
 
 When you connect the protected disk to another computer, you will need to run the USBHDD_Protect.bat file again to activate the protection.
+
 
 With this script file, you can easily protect all your disks, regardless of their NTFS/FAT/FAT32/exFAT/REFS partition structure, with just a few clicks.
 
