@@ -31,7 +31,7 @@ Bu senaryo sizin için bir senaryo olabilir ama benim için maalesef gerçekleş
 
 Çocuğunuz okuldan geldi, siz de evde yoksunuz ve bilgisayarınızı açtı. Saçma sapan oyun sitelerine girdi ve bilgisayarınıza ransomware tarzı virüs bulaştırdı.
 
-Eğer bu betik dosyası ile bilgisayarınızı çocuğunuza teslim etmeden önce tüm disklerinizi salt okunur olarak ayarlayasaydınız, ransomware virüsü bilgisayarınıza zarar veremezdi.
+Eğer bu betik dosyası ile bilgisayarınızı çocuğunuza teslim etmeden önce tüm disklerinizi salt okunur olarak ayarlasaydınız, ransomware virüsü bilgisayarınıza zarar veremezdi.
 
 Bu yazdığım senaryo aynen benim başıma geldi maalesef :( 
 
