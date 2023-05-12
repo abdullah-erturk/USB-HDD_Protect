@@ -2,7 +2,7 @@
 
          Türkçe Açıklama
 
-![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/TR/preview.jpg)
+![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/preview.gif)
 
 UYARI:
 
@@ -42,7 +42,6 @@ Lütfen önemli dosyalarınız için kendi güvenlik önlemlerinizi alın.
 		
          English Explanation
 
-![sample](https://github.com/abdullah-erturk/USBHDD_Protect/blob/main/ENG/preview.jpg)
 
 WARNING:
 
